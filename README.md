@@ -3,15 +3,14 @@
 # Stock Market Analysis Project
 
 ## Project Overview
-This project analyzes historical stock data using various technical indicators to derive meaningful insights. The objective is to help businesses and investors make informed trading decisions using data-driven strategies.
-
+Yes Bank, one of India’s prominent private sector banks, has witnessed significant fluctuations in its stock prices over the years. From its early growth phase in the 2000s to its peak performance in the mid-2010s, followed by a sharp decline due to financial and governance issues, the bank’s stock price movements offer valuable insights into market reactions to both internal and external factors. This project aims to analyze monthly stock price trends from 2005 to 2020, focusing on the impact of the 2018 fraud scandal and other major financial events.
 ## Key Features
 - **Technical Indicators**: Moving Averages (SMA & EMA), MACD, and Candlestick Patterns.
 - **Trend Analysis**: Monthly percentage changes, high & low price variations.
 - **Correlation Analysis**: Understanding relationships between stock price variables.
 - **Data Visualization**: Graphical representation of stock trends and movements.
 
-## 📈 Insights & Findings
+## Insights & Findings
 - Identified trends in **Yes Bank’s** stock price movement over time.
 - Observed high volatility with significant spikes and drops in stock prices.
 - Found strong correlations between **Open, High, Low, and Close** prices.
